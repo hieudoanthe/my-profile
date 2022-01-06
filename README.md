@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning in Phenikaa Uni
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  Thehieu0814@gmail.com
+- 📫 Reach me:  Thehieu0814@gmail.com
 
 <!---
 HielDoan/HielDoan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
